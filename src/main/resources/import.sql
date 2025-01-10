@@ -1,0 +1,10 @@
+INSERT INTO tb_product (name, description, price) VALUES ('Televisão Samsung 50"', 'Smart TV LED 50 polegadas 4K Ultra HD', 2999.99);
+INSERT INTO tb_product (name, description, price) VALUES ('Fogão Brastemp 4 Bocas', 'Fogão de Piso com Acendimento Automático', 1399.90);
+INSERT INTO tb_product (name, description, price) VALUES ('Celular iPhone 13', 'Apple iPhone 13 com 128GB de armazenamento', 6799.00);
+INSERT INTO tb_product (name, description, price) VALUES ('Geladeira Electrolux', 'Geladeira Frost Free com 380 Litros', 2899.99);
+INSERT INTO tb_product (name, description, price) VALUES ('Notebook Dell Inspiron', 'Notebook Dell com Intel Core i7 e 16GB RAM', 4999.00);
+INSERT INTO tb_product (name, description, price) VALUES ('Micro-ondas Panasonic', 'Micro-ondas 32 Litros com Função Grill', 799.90);
+INSERT INTO tb_product (name, description, price) VALUES ('Cafeteira Nespresso', 'Máquina de Café Expresso Automática', 499.00);
+INSERT INTO tb_product (name, description, price) VALUES ('Máquina de Lavar Samsung', 'Lavadora de Roupas 10kg com EcoBubble', 2199.90);
+INSERT INTO tb_product (name, description, price) VALUES ('Ar Condicionado LG', 'Ar Condicionado Split 12000 BTUs Inverter', 2399.00);
+INSERT INTO tb_product (name, description, price) VALUES ('Smartwatch Garmin', 'Relógio Smartwatch com GPS e Monitor Cardíaco', 1299.99);
